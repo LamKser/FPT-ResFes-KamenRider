@@ -11,4 +11,6 @@
 
 # Project flowchart
 
-![ResFes_flowchart drawio](https://user-images.githubusercontent.com/87382851/189053589-82e8177a-0811-4ec6-a3cd-120b56471d87.png)
+<div align="center">
+    <img src="https://github.com/LamKser/FPT-ResFes-KamenRider/blob/main/Screenshot%202022-09-10%20182639.png">
+</div>
