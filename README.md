@@ -1,6 +1,6 @@
 # License plates recognition on traffic monitoring video
 
-**Authors**: Bao Tran Duy Ngoc, Vinh Tran Nguyen Phuc, Lam Dinh Hoang, Anh Phan Ngoc, Thinh Ngo Duy
+**Authors**: Bao Tran Duy Ngoc, Vinh Tran Nguyen Phuc, Lam Dinh Hoang
 
 **Advisor**: Trung Nguyen Quoc
 
